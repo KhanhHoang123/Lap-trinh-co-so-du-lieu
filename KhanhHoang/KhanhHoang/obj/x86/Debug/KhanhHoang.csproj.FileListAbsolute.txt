@@ -1,0 +1,9 @@
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\KhanhHoang.Form1.resources
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\KhanhHoang.Properties.Resources.resources
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KHanhHoang\KhanhHoang\KhanhHoang\bin\Debug\KhanhHoang.exe
+D:\KHanhHoang\KhanhHoang\KhanhHoang\bin\Debug\KhanhHoang.pdb
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\KhanhHoang.exe
+D:\KHanhHoang\KhanhHoang\KhanhHoang\obj\x86\Debug\KhanhHoang.pdb
